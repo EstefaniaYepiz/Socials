@@ -4,7 +4,7 @@ function Footer() {
 	return (
 		<section id="footer" className={styles.container}>
 			<p>
-				&copy; 2025 Estefania Yepiz. <br /> All rights reserved. <br /> Icons by{" "}
+				&copy; 2025 Omikiwi. <br /> All rights reserved. <br /> Icons by{" "}
 				<a href="https://icons8.com/" target="_blank">
 					Icons 8
 				</a>
