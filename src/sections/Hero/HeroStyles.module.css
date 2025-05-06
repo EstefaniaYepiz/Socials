@@ -45,7 +45,7 @@
 	}
 	button:hover {
 		transform: scale(1.1);
-		cursor: url("../public/catIcon.png"), auto;
+		cursor: pointer;
 	}
 	button:active {
 		transform: translateY(2px);
@@ -62,7 +62,7 @@
 }
 
 .colorMode:hover {
-	cursor: url("../public/catIcon.png"), auto;
+	cursor: pointer;
 	transform: scale(1.2);
 }
 
